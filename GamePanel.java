@@ -17,7 +17,7 @@ public class GamePanel extends JPanel implements ActionListener, MouseListener, 
     int width = 500;
     int height = 500;
 
-    int cellSize = 5;
+    int cellSize = 10;
 
     int cellCountX = width / cellSize;
     int cellCountY = height / cellSize;
